@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "https://guritask.vercel.app/",
     "paths": {
       "@/components/*": ["components/*"],
       "@/public/*": ["public/*"],
